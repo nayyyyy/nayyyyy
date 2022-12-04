@@ -1,6 +1,6 @@
 ### Selamat Datang 👋
 
-Saya Nayaka Al Syahreal Kanaka, Mahasiswa semester 7 di Universitas Indo Global Mandiri Prodi Teknik Informatika. Saya seorang freelance software engineer dan suka mempelajari Artificial Intelligence & Web Development. Cari tahu lebih banyak tentang saya disini 😁
+Saya Nayaka Al Syahreal Kanaka, Mahasiswa semester 7 di Universitas Indo Global Mandiri Prodi Teknik Informatika. Bekerja sebagai Freelance Software Engineer. Fokus pembelajaran terkait Artificial Intelligence & Web Development. Cari tahu lebih banyak tentang saya disini 😁
 
 [![Linkedin Badge](https://img.shields.io/badge/-alkanayaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alkanayaka/)](https://www.linkedin.com/in/alkanayaka/)
 [![Gmail Badge](https://img.shields.io/badge/-nayakaalsyahrealkanaka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayakaalsyahrealkanaka@gmail.com)](mailto:nayakaalsyahrealkanaka@gmail.com)
