@@ -1,15 +1,17 @@
 ### Selamat Datang 👋
 
-Saya Nayaka Al Syahreal Kanaka, Mahasiswa semester 7 di Universitas Indo Global Mandiri Prodi Teknik Informatika. Bekerja sebagai Freelance Software Engineer. Fokus pembelajaran terkait Artificial Intelligence & Web Development. Cari tahu lebih banyak tentang saya disini 😁
+Saya Nayaka Al Syahreal Kanaka, Lulusan Universitas Indo Global Mandiri Prodi Teknik Informatika. Bekerja sebagai freelance software engineer. Berfokus terkait artificial intelligence & software engineer. Cari tahu lebih banyak tentang saya disini 😁
 
 [![Linkedin Badge](https://img.shields.io/badge/-alkanayaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alkanayaka/)](https://www.linkedin.com/in/alkanayaka/)
 [![Gmail Badge](https://img.shields.io/badge/-nayakaalsyahrealkanaka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayakaalsyahrealkanaka@gmail.com)](mailto:nayakaalsyahrealkanaka@gmail.com)
+
 
 ## ⚡ Programming Languange
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## ⚔ Tech Stack
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
