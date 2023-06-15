@@ -18,6 +18,7 @@ Saya Nayaka Al Syahreal Kanaka, Lulusan Universitas Indo Global Mandiri Prodi Te
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 
 ## Database
@@ -30,5 +31,5 @@ Saya Nayaka Al Syahreal Kanaka, Lulusan Universitas Indo Global Mandiri Prodi Te
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
+---
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=nayyyyy.nayyyyy)
