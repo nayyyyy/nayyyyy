@@ -1,6 +1,6 @@
 ### Selamat Datang 👋
 
-My Website: nayyyyy.my.id
+[My Website: nayyyyy.my.id](nayyyyy.my.id)
 
 [![Linkedin Badge](https://img.shields.io/badge/-alkanayaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alkanayaka/)](https://www.linkedin.com/in/alkanayaka/)
 [![Gmail Badge](https://img.shields.io/badge/-nayakaalsyahrealkanaka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayakaalsyahrealkanaka@gmail.com)](mailto:nayakaalsyahrealkanaka@gmail.com)
