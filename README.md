@@ -1,6 +1,6 @@
 ### Selamat Datang 👋
 
-Saya Nayaka Al Syahreal Kanaka, Lulusan Universitas Indo Global Mandiri Prodi Teknik Informatika. Bekerja sebagai freelance software engineer. Berfokus terkait artificial intelligence & software engineer. Cari tahu lebih banyak tentang saya disini 😁
+My Website: nayyyyy.my.id
 
 [![Linkedin Badge](https://img.shields.io/badge/-alkanayaka-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alkanayaka/)](https://www.linkedin.com/in/alkanayaka/)
 [![Gmail Badge](https://img.shields.io/badge/-nayakaalsyahrealkanaka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nayakaalsyahrealkanaka@gmail.com)](mailto:nayakaalsyahrealkanaka@gmail.com)
